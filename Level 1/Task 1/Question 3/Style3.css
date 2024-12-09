@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+ main{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./wp9922684-java-programming-wallpapers.jpg);
+    background-size: cover;
+    position: relative;
+ }
+
+header{
+    background-color:darkgray;
+}
+ main header nav{
+    padding: 20px 10px;
+    border: 1px solid white;
+ }
+ ul{
+    margin-left: 950px;
+   
+ }
+ ul li{
+    display: inline;
+    margin-left: 40px;
+
+ }
+
+ ul li a{
+    padding: 10px 15px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 5%;
+ }
+ h1{
+    color: black;
+ }
